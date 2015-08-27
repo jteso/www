@@ -1,130 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>kapalhq.io</title>
-  <subtitle>Building containers for the enterprise</subtitle>
-  <updated>2015-08-28T08:48:49+10:00</updated>
-  
-  <id>http://kapalhq.com/feed.xml</id>
-  <link rel="alternate" type="text/html" hreflang="en" href="http://kapalhq.com/" />
-  <link rel="self" type="application/atom+xml" href="http://kapalhq.com/feed.xml" />
-  <rights>Copyright © 2015, Tunghsiao Liu</rights>
-
-  <author>
-    <name>Tunghsiao Liu</name>
-    <uri>http://kapalhq.com/</uri>
-    <email>t@sparanoid.com</email>
-  </author>
-
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Multiple Themes Support</title>
-        <id>http://kapalhq.com/multiple-themes-support.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/multiple-themes-support.html" />
-        <published>2015-08-18T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>kapalhq.io</title><subtitle>Building containers for the enterprise</subtitle><updated>2015-08-28T08:53:23+10:00</updated><id>http://kapalhq.com/www/feed.xml</id><link rel="alternate" type="text/html" hreflang="en" href="http://kapalhq.com/www/" /><link rel="self" type="application/atom+xml" href="http://kapalhq.com/www/feed.xml" /><rights>Copyright © 2015, Tunghsiao Liu</rights><author><name>Tunghsiao Liu</name><uri>http://kapalhq.com/www/</uri><email>t@sparanoid.com</email></author><entry><title>Multiple Themes Support</title><id>http://kapalhq.com/www/multiple-themes-support.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/multiple-themes-support.html" /><published>2015-08-18T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
-            &lt;p&gt;From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See &lt;a href=&quot;/themes.html&quot;&gt;Themes&lt;/a&gt; for more information.&lt;/p&gt;
+            &lt;p&gt;From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See &lt;a href=&quot;/www/themes.html&quot;&gt;Themes&lt;/a&gt; for more information.&lt;/p&gt;
 
           
           
         
       
-        </content>
-
-        
-          <summary>From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See Themes for more information.</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Welcome</title>
-        <id>http://kapalhq.com/welcome.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/welcome.html" />
-        <published>2014-06-13T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>From version 0.0.31, you can now use multiple themes in Almace Scaffolding. See Themes for more information.</summary></entry><entry><title>Welcome</title><id>http://kapalhq.com/www/welcome.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/welcome.html" /><published>2014-06-13T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;p&gt;AMSF, a.k.a. &lt;strong&gt;Almace Scaffolding&lt;/strong&gt;, is a super-fast Jekyll framework, supports live reloading (Browsersync), Less, HTML minification, inlined stylesheets and more.&lt;/p&gt;
 
@@ -158,36 +40,7 @@
           
         
       
-        </content>
-
-        
-          <summary>AMSF, a.k.a. Almace Scaffolding, is a super-fast Jekyll framework, supports live reloading (Browsersync), Less, HTML minification, inlined stylesheets and more.</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Getting Started</title>
-        <id>http://kapalhq.com/getting-started.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/getting-started.html" />
-        <published>2014-06-12T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>AMSF, a.k.a. Almace Scaffolding, is a super-fast Jekyll framework, supports live reloading (Browsersync), Less, HTML minification, inlined stylesheets and more.</summary></entry><entry><title>Getting Started</title><id>http://kapalhq.com/www/getting-started.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/getting-started.html" /><published>2014-06-12T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
 
@@ -231,36 +84,7 @@
           
         
       
-        </content>
-
-        
-          <summary>Requirements</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Customizing Styles</title>
-        <id>http://kapalhq.com/customizing-styles.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/customizing-styles.html" />
-        <published>2014-06-11T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>Requirements</summary></entry><entry><title>Customizing Styles</title><id>http://kapalhq.com/www/customizing-styles.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/customizing-styles.html" /><published>2014-06-11T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;p&gt;You can customize the basic look and feel without touching the theme files by changing &lt;code class=&quot;highlighter-rouge&quot;&gt;custom.js&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;custom.less&lt;/code&gt;:&lt;/p&gt;
 
@@ -281,36 +105,7 @@
           
         
       
-        </content>
-
-        
-          <summary>You can customize the basic look and feel without touching the theme files by changing custom.js and custom.less:</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Configuration</title>
-        <id>http://kapalhq.com/configuration.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/configuration.html" />
-        <published>2014-06-11T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>You can customize the basic look and feel without touching the theme files by changing custom.js and custom.less:</summary></entry><entry><title>Configuration</title><id>http://kapalhq.com/www/configuration.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/configuration.html" /><published>2014-06-11T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;h2 id=&quot;configuration-settingspermalink&quot;&gt;Configuration SettingsPermalink&lt;/h2&gt;
 
@@ -335,36 +130,7 @@
           
         
       
-        </content>
-
-        
-          <summary>Configuration SettingsPermalink</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Themes</title>
-        <id>http://kapalhq.com/themes.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/themes.html" />
-        <published>2014-06-10T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>Configuration SettingsPermalink</summary></entry><entry><title>Themes</title><id>http://kapalhq.com/www/themes.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/themes.html" /><published>2014-06-10T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
@@ -428,36 +194,7 @@
           
         
       
-        </content>
-
-        
-          <summary>Overview</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Creating Your Own Theme</title>
-        <id>http://kapalhq.com/creating-themes.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/creating-themes.html" />
-        <published>2014-06-09T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>Overview</summary></entry><entry><title>Creating Your Own Theme</title><id>http://kapalhq.com/www/creating-themes.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/creating-themes.html" /><published>2014-06-09T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
@@ -762,36 +499,7 @@
           
         
       
-        </content>
-
-        
-          <summary>Overview</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Markdown Features Test</title>
-        <id>http://kapalhq.com/markdown-features-test.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/markdown-features-test.html" />
-        <published>2014-06-06T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>Overview</summary></entry><entry><title>Markdown Features Test</title><id>http://kapalhq.com/www/markdown-features-test.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/markdown-features-test.html" /><published>2014-06-06T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;h2 id=&quot;indented-code-blocks&quot;&gt;Indented Code Blocks&lt;/h2&gt;
 
@@ -920,36 +628,7 @@ end
           
         
       
-        </content>
-
-        
-          <summary>Indented Code Blocks</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Markup Example</title>
-        <id>http://kapalhq.com/markup-example.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/markup-example.html" />
-        <published>2014-06-05T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markup Example</title><id>http://kapalhq.com/www/markup-example.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/markup-example.html" /><published>2014-06-05T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;p&gt;Lorem lean startup ipsum &lt;strong&gt;product market fit customer development&lt;/strong&gt; acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying &lt;a href=&quot;#&quot;&gt;crowded market&lt;/a&gt; pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.&lt;/p&gt;
 
@@ -1119,36 +798,7 @@ Careful Skippy, you really aren’t as convincing as you think you are.&lt;/p&gt
           
         
       
-        </content>
-
-        
-          <summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Custom HTML Markups</title>
-        <id>http://kapalhq.com/custom-html-markups.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/custom-html-markups.html" />
-        <published>2014-06-01T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</summary></entry><entry><title>Custom HTML Markups</title><id>http://kapalhq.com/www/custom-html-markups.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/custom-html-markups.html" /><published>2014-06-01T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;h2 id=&quot;note-store-and-download&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.note&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;.store&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;.download&lt;/code&gt;&lt;/h2&gt;
 
@@ -1260,36 +910,7 @@ Careful Skippy, you really aren’t as convincing as you think you are.&lt;/p&gt
           
         
       
-        </content>
-
-        
-          <summary>.note, .store, and .download</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Custom Color Scheme</title>
-        <id>http://kapalhq.com/custom-color-scheme.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/custom-color-scheme.html" />
-        <published>2014-05-01T00:00:00+10:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>.note, .store, and .download</summary></entry><entry><title>Custom Color Scheme</title><id>http://kapalhq.com/www/custom-color-scheme.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/custom-color-scheme.html" /><published>2014-05-01T00:00:00+10:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;p&gt;This is an example how to change your post color scheme for specific posts. You can simply add the folloing variables to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -1311,36 +932,7 @@ scheme-bg: &quot;#00ebff&quot;
           
         
       
-        </content>
-
-        
-          <summary>This is an example how to change your post color scheme for specific posts. You can simply add the folloing variables to your post front-matter field:</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>Unique Post Styling via Custom CSS</title>
-        <id>http://kapalhq.com/custom-css.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/custom-css.html" />
-        <published>2014-04-01T00:00:00+11:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>This is an example how to change your post color scheme for specific posts. You can simply add the folloing variables to your post front-matter field:</summary></entry><entry><title>Unique Post Styling via Custom CSS</title><id>http://kapalhq.com/www/custom-css.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/custom-css.html" /><published>2014-04-01T00:00:00+11:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;p&gt;This is an example how to change your post styling via CSS. You can simply add the &lt;code class=&quot;highlighter-rouge&quot;&gt;css&lt;/code&gt; option to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -1359,36 +951,7 @@ css: |
           
         
       
-        </content>
-
-        
-          <summary>This is an example how to change your post styling via CSS. You can simply add the css option to your post front-matter field:</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>SVG Post Ttile</title>
-        <id>http://kapalhq.com/svg-post-title.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/svg-post-title.html" />
-        <published>2014-02-01T00:00:00+11:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>This is an example how to change your post styling via CSS. You can simply add the css option to your post front-matter field:</summary></entry><entry><title>SVG Post Ttile</title><id>http://kapalhq.com/www/svg-post-title.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/svg-post-title.html" /><published>2014-02-01T00:00:00+11:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;p&gt;This is an example of custom post title using SVG image. You can simply add the folloing setting to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -1419,36 +982,7 @@ img-headline-width: 500
           
         
       
-        </content>
-
-        
-          <summary>This is an example of custom post title using SVG image. You can simply add the folloing setting to your post front-matter field:</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>External Link Post</title>
-        <id>http://kapalhq.com/external-link-post.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/external-link-post.html" />
-        <published>2014-02-01T00:00:00+11:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>This is an example of custom post title using SVG image. You can simply add the folloing setting to your post front-matter field:</summary></entry><entry><title>External Link Post</title><id>http://kapalhq.com/www/external-link-post.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/external-link-post.html" /><published>2014-02-01T00:00:00+11:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;p&gt;This is an example of Tumblr-like external link post. You can simply add the folloing setting to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -1462,36 +996,7 @@ img-headline-width: 500
           &lt;p&gt;&lt;a href=&quot;http://sparanoid.com/&quot;&gt;&lt;small&gt;◉ Direct Link to Original Site&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
         
       
-        </content>
-
-        
-          <summary>This is an example of Tumblr-like external link post. You can simply add the folloing setting to your post front-matter field:</summary>
-        
-      </entry>
-    
-  
-    
-      
-
-      
-
-      <entry>
-        <title>GitHub Pages Setup Guide</title>
-        <id>http://kapalhq.com/github-pages-setup.html</id>
-        <link rel="alternate" type="text/html" href="http://kapalhq.com/github-pages-setup.html" />
-        <published>2014-01-01T00:00:00+11:00</published>
-
-        
-          <updated>2015-08-28T00:31:50+10:00</updated>
-        
-
-        <author>
-          <name>Tunghsiao Liu</name>
-          <uri>http://sparanoid.com/</uri>
-          <email>t@sparanoid.com</email>
-        </author>
-
-        <content type="html" xml:base="http://kapalhq.com/">
+        </content><summary>This is an example of Tumblr-like external link post. You can simply add the folloing setting to your post front-matter field:</summary></entry><entry><title>GitHub Pages Setup Guide</title><id>http://kapalhq.com/www/github-pages-setup.html</id><link rel="alternate" type="text/html" href="http://kapalhq.com/www/github-pages-setup.html" /><published>2014-01-01T00:00:00+11:00</published><updated>2015-08-28T00:31:50+10:00</updated><author><name>Tunghsiao Liu</name><uri>http://sparanoid.com/</uri><email>t@sparanoid.com</email></author><content type="html" xml:base="http://kapalhq.com/www/">
           
             &lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
 
@@ -1526,12 +1031,4 @@ img-headline-width: 500
           
         
       
-        </content>
-
-        
-          <summary>The Problem</summary>
-        
-      </entry>
-    
-  
-</feed>
+        </content><summary>The Problem</summary></entry></feed>

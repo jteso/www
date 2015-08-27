@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://kapalhq.com/sitemap.xml
+Sitemap: http://kapalhq.com/www/sitemap.xml

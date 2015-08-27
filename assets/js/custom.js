@@ -1,16 +1,1 @@
-// Custom user scripts
-
-// Quote marks fix
-// TODO: need better implement
-+function addMarginFix() {
-  var para = document.querySelectorAll("p, li");
-
-  for (var i = 0; i < para.length; i++) {
-    var firstLetter = para[i].innerHTML.trim().charAt(0);
-    var regex = /「|『|“/;
-
-    if (firstLetter.match(regex)) {
-      para[i].className += ' ' + "leading-indent-fix";
-    }
-  }
-}();
++function(){for(var a=document.querySelectorAll("p, li"),b=0;b<a.length;b++){var c=a[b].innerHTML.trim().charAt(0),d=/「|『|“/;c.match(d)&&(a[b].className+=" leading-indent-fix")}}();
